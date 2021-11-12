@@ -9,4 +9,4 @@ location: "Galati, Romania"
 ---
 Digital Signal Processing Hardware, Algorithms, and Programming (in Romanian)
 
-[Course and Lab support](https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_Assembly_Programming_Course_Lab.pdf)
+[Course and Lab download](https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_Assembly_Programming_Course_Lab.pdf)
