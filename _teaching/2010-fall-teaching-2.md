@@ -1,5 +1,5 @@
 ---
-title: "EECS Undergraduate"
+title: "Digital Signal Processing"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2010-fall-teaching-2
@@ -7,15 +7,7 @@ venue: "University of Galati, Romania, Electrical Engineering and Computer Scien
 date: 2010-10-01
 location: "Galati, Romania"
 ---
-Assembly Languages Programming, Digital Signal Processing
-
-Assembly Languages Programming
-===============================
-
-8-bit CPU assembly programming (in Romanian)
-
- [Course and Lab support](https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_Assembly_Programming_Course_Lab.pdf)
-
+Digital Signal Processing Hardware, Algorithms, and Programming
 
 Digital Signal Processing
 ===============================
