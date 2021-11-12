@@ -8,8 +8,6 @@ date: 2009-10-01
 location: "Galati, Romania"
 ---
 
-Teaching experience
-
 Assembly Languages Programming
 ===============================
 
