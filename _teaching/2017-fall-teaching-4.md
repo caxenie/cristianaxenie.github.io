@@ -12,4 +12,4 @@ Artificial Intelligence and Machine Learning Course (in English)
 
 The course provides an introduction to theory and application of neuronal (deep) networks, neuromorphic systems, fuzzy control techniques, support-vector machines, evolutionary and genetic algorithms for optimization, immunological computation and artificial immune systems, reinforcement learning, distributed agent-based learning and on-line streaming machine learning.
 
- [Course support](https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_AIML_Course.pdf)
+ [Course download](https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_AIML_Course.pdf)
