@@ -7,6 +7,7 @@ venue: "University of Galati, Romania, Electrical Engineering and Computer Scien
 date: 2010-10-01
 location: "Galati, Romania"
 ---
+Assembly Languages Programming, Digital Signal Processing
 
 Assembly Languages Programming
 ===============================
