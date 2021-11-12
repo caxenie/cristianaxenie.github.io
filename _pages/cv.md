@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **Ph.D (Summa cum Laude) in Neuroscience and Robotics**, Technical University of Munich, 2016
+* **Ph.D. (Summa cum Laude) in Neuroscience and Robotics**, Technical University of Munich, 2016
 * **M.S. (top 1%) in Intelligent Control Engineering and Robotics**, University of Galati, 2011
 * **B.S. (top 1%) in Control Systems Engineering and Industrial Informatics**, University of Galati, 2009 
 
@@ -95,7 +95,7 @@ Service and leadership
   * MDPI Symmetry, since 2020
 * **Member**
   * IEEE, Computational Intelligence Society, since 2007
-  * European Association for Cancer Research,since 2020
+  * European Association for Cancer Research, since 2020
   * EU Commission Expert – Robotics and AI, since 2017
   * COST, European Cooperation in Science and Technology Expert, since 2021 
 
