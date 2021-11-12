@@ -2,7 +2,7 @@
 title: "Computational Intelligence"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2009-fall-teaching-1
+permalink: /teaching/2011-fall-teaching-3
 venue: "Technical University of Munich, Germany, Electrical Engineering and Computer Science"
 date: 2011-10-01
 location: "Munich, Germany"
