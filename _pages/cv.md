@@ -30,10 +30,10 @@ Work experience
 Professional certifications
 ======
 * **Innovation Road-mapping for Emerging Technologies Certificate**, Fraunhofer Institute for Systems and Innovation Research, Karlsruhe, 2019	 
-* **Deep Learning Expert Workshop Certificate**, nVidia Deep Learning Institute, Munich, Germany, 2017
-* **Entrepreneurial Thinking Workshop Certificate**, Entrepreneurship Research Institute, TUM Graduate School, Munich, Germany, 2014
-* **Effective Student Mentoring Workshop Certificate**, Münchner Institut für Systemische Weiterbildung (MISW),Technische Universität München Graduate School, Munich, Germany, 2014
-* **Technical Writing Workshop Certificate**, Technische Universität München Graduate School, Munich, Germany, 2012
+* **Deep Learning Expert Certificate**, nVidia Deep Learning Institute, Munich, Germany, 2017
+* **Entrepreneurial Thinking Certificate**, Entrepreneurship Research Institute, TUM Graduate School, Munich, Germany, 2014
+* **Effective Student Mentoring Certificate**, Münchner Institut für Systemische Weiterbildung (MISW),Technische Universität München Graduate School, Munich, Germany, 2014
+* **Technical Writing Certificate**, Technische Universität München Graduate School, Munich, Germany, 2012
 
 
 Research Grants
