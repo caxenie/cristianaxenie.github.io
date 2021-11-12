@@ -9,4 +9,4 @@ location: "Munich, Germany"
 ---
 Computational Intelligence Algorithms and Mathematical Foundations Course (handwritten notes in English)
 
- [Course support](https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_Computational_Intelligence_Course_Seminars.pdf)
+ [Course download](https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_Computational_Intelligence_Course_Seminars.pdf)
