@@ -7,11 +7,6 @@ venue: "University of Galati, Romania, Electrical Engineering and Computer Scien
 date: 2010-10-01
 location: "Galati, Romania"
 ---
-Digital Signal Processing Hardware, Algorithms, and Programming
-
-Digital Signal Processing
-===============================
-
-32- and 64-bit DSP assembly programming (in Romanian)
+Digital Signal Processing Hardware, Algorithms, and Programming (in Romanian)
 
 [Course and Lab support](https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_Assembly_Programming_Course_Lab.pdf)
