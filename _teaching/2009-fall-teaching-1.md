@@ -7,11 +7,6 @@ venue: "University of Galati, Romania, Electrical Engineering and Computer Scien
 date: 2009-10-01
 location: "Galati, Romania"
 ---
-Assembly Languages Programming for 8-bit CPUs
-
-Assembly Languages Programming
-===============================
-
-8-bit CPU assembly programming (in Romanian)
+Assembly Languages Programming for 8-bit CPUs (in Romanian)
 
  [Course and Lab support](https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_Assembly_Programming_Course_Lab.pdf)
