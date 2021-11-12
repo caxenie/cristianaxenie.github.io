@@ -5,10 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% for js in page.customjs %}
-<script src="https://bibbase.org/show?bib=https%3A%2F%2Fgithub.com%2Fcaxenie%2Fneurorobotics.me_backend%2Fraw%2Fmaster%2Fpublications_axenie.bib&jsonp=1"></script>	
-{% endfor %}
-
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
