@@ -2,9 +2,9 @@
 title: "EECS Undergraduate"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2009-2011-eecs-teaching
+permalink: /teaching/2009-fall-teaching-1
 venue: "University of Galati, Romania, Electrical Engineering and Computer Science"
-date: 2009 - 2011
+date: 2009-10-01
 location: "Galati, Romania"
 ---
 
