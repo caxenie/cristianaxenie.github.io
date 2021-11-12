@@ -7,6 +7,7 @@ venue: "University of Galati, Romania, Electrical Engineering and Computer Scien
 date: 2009-10-01
 location: "Galati, Romania"
 ---
+Assembly Languages Programming for 8-bit CPUs
 
 Assembly Languages Programming
 ===============================
