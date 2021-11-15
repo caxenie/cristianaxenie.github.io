@@ -1,12 +1,19 @@
 ---
 permalink: /
-title: "Cristian Axenie DrEng MSc BSc"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Research approach
+====
+My research agenda focuses on fusing mathematical modelling, dynamical systems and control, machine learning, and computing systems to design and implement end-to-end solutions across domains. In the last 15 years, I have built an applied research agenda focused on tools and a framework for optimizing dynamical systems (i.e. biological, technical) to achieve adaptability, autonomic calibration, and reinforced performance. Fundamentally, the key approach I am using is a domain-aware and domain-informed machine learning framework that amounts to introducing appropriate observational, inductive or learning biases that can steer the learning process towards identifying domain-consistent solutions.
+
+![image](https://github.com/caxenie/cristianaxenie.github.io/raw/master/images/research-approach.png)
+ 
 
 Short vita
 =====
