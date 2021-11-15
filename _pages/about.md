@@ -20,4 +20,4 @@ Short vita
 
 After earning a **PhD in Neuroscience and Robotics** from TUM in 2016, I've spent one more year as **Research Fellow in Neuromorphic Engineering** with the TUM Center of Competence Neuroengineering before joining Huawei Research Center in Munich. Since 2017 I am **Staff Research Engineer** in Enterprise Intelligence with Huawei's largest research center outside China. At the same time, I **Head of the Laboratory** at the Audi Konfuzius-Institut Ingolstadt, a Sino-German research initiative focused on Human-centered Intelligence Data Processing. Each term, I teach AI and ML for undergrads as **Lecturer** at Technical University of Ingolstadt. 
 
-I am a **seasoned resercher** with **12+ years of academic research** and **7+ years of industrial research experience**. My reserch was disseminated in more than **40 peer-reviewed publications and more than 10 patents**.
+I am a **seasoned researcher** with **12+ years of academic research** and **7+ years of industrial research experience**. My research was disseminated in **40+ peer-reviewed publications and 10+ patents**.
