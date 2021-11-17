@@ -162,7 +162,7 @@ The generic system architecture is depicted in the following diagram.
 
 <a href="https://audi-konfuzius-institut-ingolstadt.de/wp-content/uploads/2020/02/sample_motion_data.png"><img class=" wp-image-27341 alignnone" src="https://audi-konfuzius-institut-ingolstadt.de/wp-content/uploads/2020/02/sample_motion_data-1024x867.png" alt="" width="718" height="608" /></a>
 
-<br>In order to exploit the richness and unique parameters of the goalkeeper's motion, we employ a robust machine learning algorithm that is able to discriminate dives from other types of specific motions directly from raw sensory data. Each prediction is accompanied by an explanation of how each sensed motion component contributes to describing a specific goalkeeper's action.
+<br>In order to exploit the richness and unique parameters of the goalkeeper's motion, we employ a robust machine learning algorithm that is able to discriminate dives from other types of specific motions directly from raw sensory data. Each prediction is accompanied by an explanation of how each sensed motion component contributes to describing a specific goalkeeper's action.<br>
 
 <a href="https://audi-konfuzius-institut-ingolstadt.de/wp-content/uploads/2020/02/visual-abstract.png"><img class="wp-image-27344 alignnone" src="https://audi-konfuzius-institut-ingolstadt.de/wp-content/uploads/2020/02/visual-abstract-1024x523.png" alt="" width="710" height="362" /></a>
 
@@ -217,21 +217,21 @@ The test rig developed in the initial project combined a dynamics vision sensor 
 <h1>Preliminary results</h1>
 &nbsp;
 <h3><b>VR motion reconstruction based on a VR tracking system and a single RGB camera</b></h3>
-[video width="1280" height="720" mp4="https://audi-konfuzius-institut-ingolstadt.de/wp-content/uploads/2018/09/VIRTOOAIR_compressed.mp4" loop="true" autoplay="true"][/video]
+
 
 &nbsp;
 
 Our preliminary results demonstrate the advantages of our system’s avatar pose reconstruction. This is mainly determined by the use of a powerful learning system, which offers significantly better results than existing heuristic solutions for inverse kinematics. Our system supports the paradigm shift towards learning systems capable to track full-body avatars inside Virtual Reality without the need of expensive external tracking hardware. The following figure shows preliminary results of our proposed reconstruction system.
 
-<a href="https://audi-konfuzius-institut-ingolstadt.de/wp-content/uploads/2017/11/Screenshots.png"><img class="wp-image-24076 size-full" src="https://audi-konfuzius-institut-ingolstadt.de/wp-content/uploads/2017/11/Screenshots.png" alt="" width="863" height="663" /></a> VIRTOOAIR Visualization
+<a href="https://audi-konfuzius-institut-ingolstadt.de/wp-content/uploads/2017/11/Screenshots.png"><img class="wp-image-24076 size-full" src="https://audi-konfuzius-institut-ingolstadt.de/wp-content/uploads/2017/11/Screenshots.png" alt="" width="863" height="663" /></a> <br>VIRTOOAIR Visualization<br>
 
 For the upper body reconstruction, the semantically higher VR tracking system data is used. The lower body parts are reconstructed using state-of-the-art deep learning mechanism which allows pose recovery in an end-to-end manner. The system can be split in five different parts: tracking data acquisition, inverse kinematic regression, image processing, end-to-end recovery and visualization.
 
-<img class="wp-image-24070 " src="https://audi-konfuzius-institut-ingolstadt.de/wp-content/uploads/2017/11/Overview.png" alt="" width="1126" height="588" /> VIRTOOAIR Architecture
+<img class="wp-image-24070 " src="https://audi-konfuzius-institut-ingolstadt.de/wp-content/uploads/2017/11/Overview.png" alt="" width="1126" height="588" /> <br>VIRTOOAIR Architecture<br>
 
 First test results with the described system show that it is capable to recovery human motion inside Virtual Reality and outperforms existing Inverse Kinematic solvers for the upper body joint configuration. The following table shows the mean per joint position error (MPJPE) and the mean per joint rotation error (MPJRE):
 
-<a href="https://audi-konfuzius-institut-ingolstadt.de/wp-content/uploads/2017/11/Results.png"><img class="wp-image-24073 size-full" src="https://audi-konfuzius-institut-ingolstadt.de/wp-content/uploads/2017/11/Results.png" alt="" width="698" height="247" /></a> VIRTOOAIR Preliminary evaluation
+<a href="https://audi-konfuzius-institut-ingolstadt.de/wp-content/uploads/2017/11/Results.png"><img class="wp-image-24073 size-full" src="https://audi-konfuzius-institut-ingolstadt.de/wp-content/uploads/2017/11/Results.png" alt="" width="698" height="247" /></a> <br>VIRTOOAIR Preliminary evaluation<br>
 
 With the proposed system we introduced a novel, inexpensive approach to achieve high-fidelity multimodal motion capturing and avatar representation in VR. By fusing an inverse kinematics learning module for precise upper-body motion reconstruction, with single RGB camera input for lower-body estimation the system obtains a rich representation of human motion inside VR. The learning capabilities allow natural pose regression with cheap and affordable marker-less motion capturing hardware. In the future we will further extend VIRTOOAIR and combine the gained knowledge about learned IK for upper body reconstruction with the lower-body end-to-end recovery framework for a holistic motion reconstruction framework which fuses the higher semantic VR tracking data with the RGB image stream.
 
@@ -417,11 +417,11 @@ Environmental interaction is a significant aspect in the life of every physical 
 
 <br>This recently started research project is in the area of mobile robotics; and more specifically in explicit methods applicable for acquiring and maintaining such environmental representations. State-of-the-art implementations build upon probabilistic reasoning algorithms, which typically aim at optimal solutions with the cost of high processing requirements.
 
-In this project I am developing an alternative, neurobiologically inspired method for real-time interpretation of sensory stimuli in mobile robotic systems: a distributed networked system with inter-merged information storage and processing that allows efficient parallel reasoning. This networked architecture will be comprised of interconnected heterogeneous software units, each encoding a different feature about the state of the environment that is represented by a local representation (see Figure 6). 
+In this project I am developing an alternative, neurobiologically inspired method for real-time interpretation of sensory stimuli in mobile robotic systems: a distributed networked system with inter-merged information storage and processing that allows efficient parallel reasoning. This networked architecture will be comprised of interconnected heterogeneous software units, each encoding a different feature about the state of the environment that is represented by a local representation (see Figure 6).<br> 
 
 <img src="https://raw.githubusercontent.com/caxenie/neurorobotics.me_backend/master/pics/figure6.png" alt="Figure 6">
 
-<br>Such extracted pieces of environmental knowledge interact by mutual influence to ensure overall system coherence. A sample instantiation of the developed system focuses on mobile robot heading estimation (see Figure 7). In order to obtain a robust and unambiguous description of robot’s current orientation within its environment inertial, proprioceptive and visual cues are fused (see image). Given available sensory data, the network relaxes to a globally consistent estimate of the robot's heading angle and position.
+<br>Such extracted pieces of environmental knowledge interact by mutual influence to ensure overall system coherence. A sample instantiation of the developed system focuses on mobile robot heading estimation (see Figure 7). In order to obtain a robust and unambiguous description of robot’s current orientation within its environment inertial, proprioceptive and visual cues are fused (see image). Given available sensory data, the network relaxes to a globally consistent estimate of the robot's heading angle and position.<br>
 
 <img src="https://raw.githubusercontent.com/caxenie/neurorobotics.me_backend/master/pics/figure7.png" alt="Figure 7">
 	 
