@@ -13,17 +13,17 @@ author_profile: true
 <details>
 	<summary>2019</summary>
   <p> Merck KGaA, Darmstadt, Germany <br>
-    <a href="https://app.ekipa.de/challenges/future-of-ai/brief)<br>
-    <a href="https://www.thi.de/hochschule/aktuelles/news/thi-erfolgreich-in-ai-forschungswettbewerb)<br>
-    <a href="https://www.youtube.com/watch?v=avtLwTM5xIw&ab_channel=ekipaCrowd)<br>
-    <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_Media_Coverage_THI_2019.pdf)<br>
+    <a href="https://app.ekipa.de/challenges/future-of-ai/brief">Source 1</a><br>
+    <a href="https://www.thi.de/hochschule/aktuelles/news/thi-erfolgreich-in-ai-forschungswettbewerb">Source 2</a><br>
+    <a href="https://www.youtube.com/watch?v=avtLwTM5xIw&ab_channel=ekipaCrowd">Source 3</a><br>
+    <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_Media_Coverage_THI_2019.pdf">Download copy</a><br>
   </p>
 </details>
 
 
 
 <details>
-	<summary>2018</summary>
+   <summary>2018</summary>
   <p> Lions Club, Chimesee, Germany <br>
     <a href="https://www.ovb-heimatzeitungen.de/wi-ge/2018/09/21/kuenstliche-intelligenz-im-fokus.ovb">Source 1</a><br>
     <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_Media_Coverage_Lions_2018.pdf">Download copy</a><br>
