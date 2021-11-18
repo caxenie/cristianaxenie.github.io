@@ -25,7 +25,7 @@ author_profile: true
 <details>
    <summary>2018</summary>
   <p> Lions Club, Chimesee, Germany <br>
-    <a href="https://www.ovb-heimatzeitungen.de/wi-ge/2018/09/21/kuenstliche-intelligenz-im-fokus.ovb">Source 1</a><br>
+    <a href="https://www.ovb-heimatzeitungen.de/wi-ge/2018/09/21/kuenstliche-intelligenz-im-fokus.ovb">Source</a><br>
     <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_Media_Coverage_Lions_2018.pdf">Download copy</a><br>
   </p>
 </details>
@@ -61,7 +61,7 @@ author_profile: true
   <p> IBM Best Linux Application Challenge, Bucharest, Romania <br>
     <a href="https://web.archive.org/web/20101105153553/http://www.dandragomir.biz/software/linux-application-2009-student-final.html">Source</a><br>
     <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_Media_Coverage_IBM_2009.pdf">Download copy</a><br><br>
-   <p> International Technical Universities Competition, ZTS2009, Timisoara , Romania <br>
+    International Technical Universities Competition, ZTS2009, Timisoara , Romania <br>
     <a href="https://www.viata-libera.ro/pdf/2009/05_mai/vlg_21_mai.pdf">Source</a><br>
     </p>
 </details>  
