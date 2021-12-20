@@ -91,7 +91,7 @@ Service and leadership
 * **Member of the Review Board**
   * MDPI Sensor Journal, IOP Journal of Neural Engineering, since 2016
   * Frontiers in Robotics, since 2019
-  * Frontiers in Oncolog, since 2019
+  * Frontiers in Oncology, since 2019
   * MDPI Symmetry, since 2020
 * **Member**
   * IEEE, Computational Intelligence Society, since 2007
