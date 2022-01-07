@@ -9,6 +9,12 @@ author_profile: true
 
 *Research press coverage*
 
+<details>
+	<summary>2021</summary>
+  <p> Mathematical Oncology Newsletter <br>
+    <a href="https://thisweekmathonco.substack.com/">Source</a><br>
+  </p>
+</details>
 
 <details>
 	<summary>2019</summary>
