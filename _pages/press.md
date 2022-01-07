@@ -12,7 +12,7 @@ author_profile: true
 <details>
 	<summary>2021</summary>
   <p> International Mathematical Oncology Newsletter <br>
-    <a href="https://thisweekmathonco.substack.com/">Source</a><br>
+    <a href="https://thisweekmathonco.substack.com/p/this-week-in-mathonco-191">Source</a><br>
     <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAXENIE-coverage- MathOncoBlog 191.pdf">Download copy</a><br>
   </p>
 </details>
