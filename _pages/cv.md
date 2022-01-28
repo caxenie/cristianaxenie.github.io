@@ -65,8 +65,9 @@ Awards and Honours
 * **1st place at the 13th International Polytechnic Universities Scientific Sessions** 2009
 * **University of Galaţi Performance Scholarship** 2006 - 2009
 
-Patents
+Patents(filed/granted)
 ======
+* **C. Axenie**, Stefano Bortoli, Daniele Foroni, et al., Physics-informed Intelligent Calibration & Reliability Analysis Framework for Physical Systems, 2021
 * **C. Axenie**, Stefano Bortoli, Daniele Foroni, Goetz Brasche, Dynamic Optimization-Free Traffic Light Signal Offset Control System, 2020
 * **C. Axenie**, Stefano Bortoli, Goetz Brasche, Learning Contextual Memory System for Traffic Light Optimization, 2020
 * **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Short-Term Spatio-Temporal Traffic Prediction System, 2019
