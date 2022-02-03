@@ -67,18 +67,18 @@ Awards and Honours
 
 Patents(filed/granted)
 ======
-* **C. Axenie**, Stefano Bortoli, Daniele Foroni, et al., Physics-informed Intelligent Calibration & Reliability Analysis Framework for Physical Systems, 2021
-* **C. Axenie**, Stefano Bortoli, Daniele Foroni, Goetz Brasche, Dynamic Optimization-Free Traffic Light Signal Offset Control System, 2020
-* **C. Axenie**, Stefano Bortoli, Goetz Brasche, Learning Contextual Memory System for Traffic Light Optimization, 2020
-* **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Short-Term Spatio-Temporal Traffic Prediction System, 2019
-* **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Multisensory Learning System for Traffic Prediction, 2019
-* **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Online Traffic Reasoner for City-Level Smart Traffic Light Management, 2019
-* **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Automatic Model Selection for Timeseries Prediction on Data Streams, 2019
-* Radu Tudoran, **C. Axenie**, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Online Traffic Controller with Spatio-Temporal Learning Extensions for Online Machine Learning Prediction, 2019
-* Stefano Bortoli, Radu Tudoran, **C. Axenie**, Mohamad Al Hajj Hassan, Goetz Brasche, et al., DataBase-Embedded Streaming Engine, 2019
-* Stefano Bortoli, Radu Tudoran, **C. Axenie**, Mohamad Al Hajj Hassan, Goetz Brasche, A System for Higher-Order Stream Processing, 2018
-* **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Streaming Random Forest, 2018
-* **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Stream Feature Extractor, 2017
+1. **C. Axenie**, Stefano Bortoli, Daniele Foroni, et al., Physics-informed Intelligent Calibration & Reliability Analysis Framework for Physical Systems, 2021
+2. **C. Axenie**, Stefano Bortoli, Daniele Foroni, Goetz Brasche, Dynamic Optimization-Free Traffic Light Signal Offset Control System, 2020
+3. **C. Axenie**, Stefano Bortoli, Goetz Brasche, Learning Contextual Memory System for Traffic Light Optimization, 2020
+4. **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Short-Term Spatio-Temporal Traffic Prediction System, 2019
+5. **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Multisensory Learning System for Traffic Prediction, 2019
+6. **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Online Traffic Reasoner for City-Level Smart Traffic Light Management, 2019
+7. **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Automatic Model Selection for Timeseries Prediction on Data Streams, 2019
+8. Radu Tudoran, **C. Axenie**, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Online Traffic Controller with Spatio-Temporal Learning Extensions for Online Machine Learning Prediction, 2019
+9. Stefano Bortoli, Radu Tudoran, **C. Axenie**, Mohamad Al Hajj Hassan, Goetz Brasche, et al., DataBase-Embedded Streaming Engine, 2019
+10. Stefano Bortoli, Radu Tudoran, **C. Axenie**, Mohamad Al Hajj Hassan, Goetz Brasche, A System for Higher-Order Stream Processing, 2018
+11. **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Streaming Random Forest, 2018
+12. **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Stream Feature Extractor, 2017
 
   
 Service and leadership
