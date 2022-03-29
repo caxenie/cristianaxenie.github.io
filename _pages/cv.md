@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * **Ph.D. (Summa cum Laude)** in **Neuroscience and Robotics**, Technical University of Munich, 2016
