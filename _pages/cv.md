@@ -23,13 +23,14 @@ Work experience
 * **Senior Research Engineer**, Huawei Research Center, Germany, 2017 - 2019
 * **Head of Laboratory / Principal Investigator**, AUDI Konfuzius-Institut Ingolstadt Laboratory, Germany, since 2017
 * **Lecturer**, Technische Hochschule Ingolstadt, Germany, 2017 - 2021
-* **Research Fellow**, Technical University of Munich, Germany, 2016 - 2017
+* **Post-doctoral Research Fellow**, Technical University of Munich, Germany, 2016 - 2017
 * **Freelance Consultant**, Applied Artificial Intelligence and Machine Learning, Germany, since 2016
 * **Software Engineer**, WindRiver, Romania, 2009 - 2011
 * **Software Engineer** (intern), Freescale Semiconductors, Romania, 2008
 
 Professional certifications
 ======
+* **Oxford Entrepreneurship: Venture Creation Programme**, Said Business School, Oxford University, Oxford, UK, 2022	 
 * **Innovation Road-mapping for Emerging Technologies Certificate**, Fraunhofer Institute for Systems and Innovation Research, Karlsruhe, 2019	 
 * **Deep Learning Expert Certificate**, nVidia Deep Learning Institute, Munich, Germany, 2017
 * **Entrepreneurial Thinking Certificate**, Entrepreneurship Research Institute, TUM Graduate School, Munich, Germany, 2014
