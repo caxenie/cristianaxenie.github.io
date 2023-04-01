@@ -9,24 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+Work experience
+======
+* **Professor of Artificial Intelligence**, Technische Hochschule Nürnberg Georg Simon Ohm, Germany, since 2023
+* **Staff Research Engineer**, Huawei Research Center, Germany, since 2019 
+* **Senior Research Engineer**, Huawei Research Center, Germany, 2017 - 2019
+* **Head of Laboratory / Principal Investigator**, AUDI Konfuzius-Institut Ingolstadt Laboratory, Germany, since 2017
+* **Lecturer**, Technische Hochschule Ingolstadt, Germany, 2017 - 2021
+* **Post-doctoral Research Fellow**, Technical University of Munich, Germany, 2016 - 2017
+* **Research Associate**, Technical University of Munich, Germany, 2016 - 2017
+* **Freelance Consultant**, Applied Artificial Intelligence and Machine Learning, Germany, since 2016
+* **Software Engineer**, WindRiver, Romania, 2009 - 2011
+* **Software Engineer** (intern), Freescale Semiconductors, Romania, 2008
 
 Education
 ======
 * **Ph.D. (Summa cum Laude)** in **Neuroscience and Robotics**, Technical University of Munich, 2016
 * **M.S. (top 1%)** in **Intelligent Control Engineering and Robotics**, University of Galati, 2011
 * **B.S. (top 1%)** in **Control Systems Engineering and Industrial Informatics**, University of Galati, 2009 
-
-
-Work experience
-======
-* **Staff Research Engineer**, Huawei Research Center, Germany, since 2019 
-* **Senior Research Engineer**, Huawei Research Center, Germany, 2017 - 2019
-* **Head of Laboratory / Principal Investigator**, AUDI Konfuzius-Institut Ingolstadt Laboratory, Germany, since 2017
-* **Lecturer**, Technische Hochschule Ingolstadt, Germany, 2017 - 2021
-* **Post-doctoral Research Fellow**, Technical University of Munich, Germany, 2016 - 2017
-* **Freelance Consultant**, Applied Artificial Intelligence and Machine Learning, Germany, since 2016
-* **Software Engineer**, WindRiver, Romania, 2009 - 2011
-* **Software Engineer** (intern), Freescale Semiconductors, Romania, 2008
 
 Professional certifications
 ======
@@ -69,18 +69,20 @@ Awards and Honours
 
 Patents(filed/granted)
 ======
-1. **C. Axenie**, Stefano Bortoli, Daniele Foroni, et al., Physics-informed Intelligent Calibration & Reliability Analysis Framework for Physical Systems, 2021
-2. **C. Axenie**, Stefano Bortoli, Daniele Foroni, Goetz Brasche, Dynamic Optimization-Free Traffic Light Signal Offset Control System, 2020
-3. **C. Axenie**, Stefano Bortoli, Goetz Brasche, Learning Contextual Memory System for Traffic Light Optimization, 2020
-4. **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Short-Term Spatio-Temporal Traffic Prediction System, 2019
-5. **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Multisensory Learning System for Traffic Prediction, 2019
-6. **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Online Traffic Reasoner for City-Level Smart Traffic Light Management, 2019
-7. **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Automatic Model Selection for Timeseries Prediction on Data Streams, 2019
-8. Radu Tudoran, **C. Axenie**, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Online Traffic Controller with Spatio-Temporal Learning Extensions for Online Machine Learning Prediction, 2019
-9. Stefano Bortoli, Radu Tudoran, **C. Axenie**, Mohamad Al Hajj Hassan, Goetz Brasche, et al., DataBase-Embedded Streaming Engine, 2019
-10. Stefano Bortoli, Radu Tudoran, **C. Axenie**, Mohamad Al Hajj Hassan, Goetz Brasche, A System for Higher-Order Stream Processing, 2018
-11. **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Streaming Random Forest, 2018
-12. **C. Axenie**, Radu Tudoran, Stefano Bortoli, Mohamad Al Hajj Hassan, Goetz Brasche, Stream Feature Extractor, 2017
+1. Physics-informed Intelligent Calibration & Reliability Analysis Framework for Physical Systems, 2021
+2. Dynamic Optimization-Free Traffic Light Signal Offset Control System, 2020
+3. Learning Contextual Memory System for Traffic Light Optimization, 2020
+4. hort-Term Spatio-Temporal Traffic Prediction System, 2019
+5. Multisensory Learning System for Traffic Prediction, 2019
+6. Online Traffic Reasoner for City-Level Smart Traffic Light Management, 2019
+7. Automatic Model Selection for Timeseries Prediction on Data Streams, 2019
+8. Online Traffic Controller with Spatio-Temporal Learning Extensions for Online Machine Learning Prediction, 2019
+9. DataBase-Embedded Streaming Engine, 2019
+10. A System for Higher-Order Stream Processing, 2018
+11. Streaming Random Forest, 2018
+12. Stream Feature Extractor, 2017
+13. Dynamic Model-oblivious Adaptive Ghost Cells for Distributed Agent-based Simulations, 2023
+14. Automatic Intelligent Reparation System for Road Networks, 2023
 
   
 Service and leadership
