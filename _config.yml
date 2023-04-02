@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Research Profile: Cristian Axenie"
 title_separator          : "-"
 name                     : &name "Cristian Axenie"
-description              : &description "Staff Reserch Engineer @ Huawei Research Munich \n Head of Laboratory @ Audi Konfuzius-Institut Ingolstadt"
+description              : &description "Professor of Artificial Intelligence at Technische Hochschule Nürnberg Georg Simon Ohm"
 url                      : https://caxenie.github.io/cristianaxenie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caxenie/cristianaxenie.github.io"
@@ -81,7 +81,7 @@ author:
   name             : "Cristian Axenie"
   avatar           : "profile.png"
   bio              : 
-  location         : "Munich & Ingolstadt, Germany"
+  location         : "Munich & Nürnberg, Germany"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=cristian+axenie"
   googlescholar    : "https://scholar.google.com/citations?user=K3C2IbMAAAAJ&hl=en"
