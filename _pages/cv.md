@@ -82,7 +82,7 @@ Patents(filed/granted)
 11. Streaming Random Forest, 2018
 12. Stream Feature Extractor, 2017
 13. Dynamic Model-oblivious Adaptive Ghost Cells for Distributed Agent-based Simulations, 2023
-14. Automatic Intelligent Reparation System for Road Networks, 2023
+14. Automated Road Network Junction Correction from Aerial Imagery, 2023
 
   
 Service and leadership
