@@ -3,8 +3,6 @@ layout: archive
 title: "SPICES Lab"
 permalink: /spiceslab/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 **Sensorimotor Processing, Intelligen, and Control in Efficient compute Systems (SPICES) Laboratory**
