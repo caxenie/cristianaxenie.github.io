@@ -13,7 +13,7 @@ Welcome to the SPICES Lab, led by [Prof. Dr. Cristian Axenie](https://www.th-nue
 
 Research agenda
 ======
-The SPICES Lab focuses on the end-to-end design, development, and deployment of closed-loop systems. Algorithmically, we specialize in neural network learning algorithms, and more specifically in spiking neural networks for intelligent multisensory fusion and control. At the data source level, we model, process, and fuse traditional as well as neuromorphic (event-based) sensory data. Finally, we deploy our algorithms on energy efficient compute systems, from embedded devices to edge devices, with a clear focus on green and sustainable learninf and inference. 
+The SPICES Lab focuses on the end-to-end design, development, and deployment of closed-loop systems. Algorithmically, we specialize in neural network learning algorithms, and more specifically in spiking neural networks for intelligent multisensory fusion and control. At the data source level, we model, process, and fuse traditional as well as neuromorphic (event-based) sensory data. Finally, we deploy our algorithms on energy efficient compute systems, from embedded devices to edge devices, with a clear focus on green and sustainable learning and inference. 
 
 
 Previous projects
