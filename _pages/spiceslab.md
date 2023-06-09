@@ -7,7 +7,7 @@ author_profile: true
 
 **Sensorimotor Processing, Intelligence, and Control in Efficient compute Systems (SPICES) Laboratory**
 
-Welcome to the SPICES Lab, led by [Prof. Dr. Cristian Axenie](https://www.th-nuernberg.de/person/axenie-cristian/) within the [Computer Science Department](https://www.th-nuernberg.de/en/faculties/in/) at the [Technische Hochschule Nürnberg / Nuremberg Institute of Technology](https://www.th-nuernberg.de/en/) in Germany.
+Welcome to the SPICES Lab, led by [Prof. Dr. Cristian Axenie](https://www.th-nuernberg.de/person/axenie-cristian/). We are a research laboratory within the [Computer Science Department](https://www.th-nuernberg.de/en/faculties/in/) at the [Technische Hochschule Nürnberg / Nuremberg Institute of Technology](https://www.th-nuernberg.de/en/) in Germany. We are sponsored by the Professorship for Artifificial Intelligence for Heterogeneous Sensory Data under the prestigious [High Tech Agenda Bayern](https://www.hightechagenda.de/).
 
 {% include base_path %}
 
