@@ -13,21 +13,34 @@ Welcome to the _**S**ensorimotor **P**rocessing, **I**ntelligence, and **C**ontr
 
 Research agenda
 ======
-The SPICES Lab focuses on the end-to-end design, development, and deployment of closed-loop systems. Algorithmically, we specialize in neural network learning algorithms, and more specifically in spiking neural networks for intelligent multisensory fusion and control. At the data source level, we model, process, and fuse traditional as well as neuromorphic (event-based) sensory data. Finally, we deploy our algorithms on energy-efficient compute systems, from embedded devices to edge devices, with a clear focus on green and sustainable learning and inference. 
+The SPICES Lab focuses on the end-to-end design, development, and deployment of closed-loop systems. Algorithmically, we specialize in neural network learning algorithms for intelligent multisensory fusion and control. At the data source level, we model, process, and fuse traditional as well as neuromorphic (event-based) sensory data. Finally, we deploy our algorithms on energy-efficient compute systems, from embedded devices to edge devices, with a clear focus on green and sustainable learning and inference. 
 
 
 Previous projects
 ======
 
+
 _High-speed Vision_
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN dvs-pendulum-tracking-perturbation.gif" width="60%" height="60%">
 
-_Sensor Fusion_
+_Multisensory Fusion for Traffic Optimization_
+
+<img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-sensor-fusion-traffic-opt.gif" width="60%" height="60%">
+
+_Pedestrian detection and tracking_
+
+<img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN event-based-pedestrian-tracking.gif.gif" width="60%" height="60%">
+
+_Vision Sensor Fusion_
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN event_based_depth.gif" width="60%" height="60%">
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN slam-watermarked.gif" width="60%" height="60%">
+
+_Biomechanics in VR_
+
+<img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-kinematics-for-vr.gif" width="60%" height="60%">
 
 _Closed-loop Neurobotics_
 
