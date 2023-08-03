@@ -10,6 +10,14 @@ author_profile: true
 *Research press coverage*
 
 <details>
+	<summary>2023</summary>
+  <p> Nuremberg Institute of Technology <br>
+    <a href="https://www.th-nuernberg.de/news/4895-die-ohm-bekommt-verstaerkung/">Source</a><br>
+    <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_Media_Coverage_Technische Hochschule Nürnberg Georg Simon Ohm.pdf">Download copy</a><br>
+  </p>
+</details>
+
+<details>
 	<summary>2021</summary>
   <p> International Mathematical Oncology Newsletter <br>
     <a href="https://thisweekmathonco.substack.com/p/this-week-in-mathonco-191">Source</a><br>
