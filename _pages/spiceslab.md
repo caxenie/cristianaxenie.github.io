@@ -22,7 +22,7 @@ Research themes
 
 **Neuromorphic Artificial Intelligence**
 
-<img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_agenda_demos.png" width="100%" height="100%">
+<img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_theme_robotics.png" width="100%" height="100%">
 
 **Intelligent Multi-sensory fusion**
 
@@ -147,25 +147,34 @@ Previous projects
  
 _High-speed Vision_
 
+
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN dvs-pendulum-tracking-perturbation.gif" width="60%" height="60%">
+
 
 _Multisensory Fusion for Traffic Optimization_
 
+
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-sensor-fusion-traffic-opt.gif" width="60%" height="60%">
+
 
 _Pedestrian detection and tracking_
 
+
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN event-based-pedestrian-tracking.gif.gif" width="60%" height="60%">
 
+
 _Vision Sensor Fusion_
+
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN event_based_depth.gif" width="60%" height="60%">
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN slam-watermarked.gif" width="60%" height="60%">
 
+
 _Biomechanics in VR_
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-kinematics-for-vr.gif" width="60%" height="60%">
+
 
 _Closed-loop Neurobotics_
 
