@@ -22,21 +22,25 @@ Research themes
 
 **Neuromorphic Artificial Intelligence**
 <details>
+	<p> Closed-loop robotic systems powered by spiking neural networks for learning sensorimotor control in autonomous operation.</p>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_theme_robotics.png" width="80%" height="80%">
 </details>
 
 **Intelligent Multi-sensory fusion**
 <details>
+		<p> Neural networks for representation, computation, and learning in sensor data processing, integration, de-noising and decision-making.</p>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_theme_sensor_fusion.png" width="80%" height="80%">
 </details>
 
 **Antifragile Control Systems**
 <details>
+<p>Building a foundational knowledge base by applying antifragile system design, analysis, and development across domains. We are interested in formalizing principles and an apparatus that turns the basic concept of antifragility into a tool for designing and building closed-loop systems that behave beyond robust in the face of uncertainty. </p> 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_theme_antifragile_ctrl.png" width="80%" height="80%">
 </details>
 
 **Edge Intelligence and TinyML**
 <details>
+<p>Research in the field of Tiny Machine Learning (TinyML) explores the optimization and execution of AI-based processing chains on embedded computers, with a focus on low-power neurmorphic sensors and computers.</p>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_theme_tinyml.png" width="80%" height="80%">
 </details>
 
@@ -102,6 +106,8 @@ Research domains
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_field_healthcare.png" width="80%" height="80%">
 </details>
 
+
+
 Equipment and systems
 ======
 
@@ -129,6 +135,8 @@ Equipment and systems
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Hardware_demos.png" width="70%" height="70%">
 </details>
 
+
+
 Teaching areas
 ======
 
@@ -145,42 +153,38 @@ Algorithms and Data Structures
 Previous projects
 ======
 
+High-speed Vision
 <details>
-
- 
-_High-speed Vision_
-							<br>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN dvs-pendulum-tracking-perturbation.gif" width="60%" height="60%">
-							<br>
+</details>
 
 
-_Multisensory Fusion for Traffic Optimization_
-							<br>
-
+Multisensory Fusion for Traffic Optimization
+<details>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-sensor-fusion-traffic-opt.gif" width="60%" height="60%">
-							<br>
+</details>
 
-_Pedestrian detection and tracking_
-							<br>
 
+Pedestrian detection and tracking
+<details>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN event-based-pedestrian-tracking.gif.gif" width="60%" height="60%">
+</details>
 
 
-
-_Vision Sensor Fusion_
-
+Vision Sensor Fusion
+<details>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN event_based_depth.gif" width="60%" height="60%">
+</details>
 
-<img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN slam-watermarked.gif" width="60%" height="60%">
-							<br>
 
-_Biomechanics in VR_
-
+Biomechanics in VR
+<details>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-kinematics-for-vr.gif" width="60%" height="60%">
+</details>
 
 
-_Closed-loop Neurobotics_
-
+Closed-loop Neurobotics
+<details>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-robotics-3d-egomotion.gif" width="60%" height="60%">
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-robotics-collaborative-upd.gif" width="60%" height="60%">
