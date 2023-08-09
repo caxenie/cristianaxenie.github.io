@@ -21,27 +21,28 @@ Research themes
 ======
 
 **Neuromorphic Artificial Intelligence**
-
+<details>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_theme_robotics.png" width="80%" height="80%">
+</details>
 
 **Intelligent Multi-sensory fusion**
-
+<details>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_theme_sensor_fusion.png" width="80%" height="80%">
-
+</details>
 
 **Antifragile Control Systems**
-
+<details>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_theme_antifragile_ctrl.png" width="80%" height="80%">
-
+</details>
 
 **Edge Intelligence and TinyML**
-
+<details>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_theme_tinyml.png" width="80%" height="80%">
-
+</details>
 Research domains
 ======
 
-<img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_fields.png" width="80%" height="80%">
+<img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_fields.png" width="60%" height="60%">
 
 <details>
 	<summary>Robotics</summary>
