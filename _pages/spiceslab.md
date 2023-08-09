@@ -143,6 +143,8 @@ Previous projects
 ======
 
 <details>
+
+ 
 _High-speed Vision_
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN dvs-pendulum-tracking-perturbation.gif" width="60%" height="60%">
@@ -172,6 +174,8 @@ _Closed-loop Neurobotics_
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-robotics-collaborative-upd.gif" width="60%" height="60%">
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-robotics-grasping.gif" width="60%" height="60%">
+
+
 </details>
 
 Publications
