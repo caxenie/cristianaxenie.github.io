@@ -146,36 +146,36 @@ Previous projects
 
  
 _High-speed Vision_
-
-
+							<br>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN dvs-pendulum-tracking-perturbation.gif" width="60%" height="60%">
+							<br>
 
 
 _Multisensory Fusion for Traffic Optimization_
-
+							<br>
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-sensor-fusion-traffic-opt.gif" width="60%" height="60%">
-
+							<br>
 
 _Pedestrian detection and tracking_
-
+							<br>
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN event-based-pedestrian-tracking.gif.gif" width="60%" height="60%">
-
+							<br>
 
 _Vision Sensor Fusion_
 
-
+							<br>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN event_based_depth.gif" width="60%" height="60%">
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN slam-watermarked.gif" width="60%" height="60%">
-
+							<br>
 
 _Biomechanics in VR_
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-kinematics-for-vr.gif" width="60%" height="60%">
 
-
+							<br>
 _Closed-loop Neurobotics_
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-robotics-3d-egomotion.gif" width="60%" height="60%">
@@ -183,7 +183,7 @@ _Closed-loop Neurobotics_
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-robotics-collaborative-upd.gif" width="60%" height="60%">
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-robotics-grasping.gif" width="60%" height="60%">
-
+							<br>
 
 </details>
 
