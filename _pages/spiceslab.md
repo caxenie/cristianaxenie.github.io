@@ -39,6 +39,8 @@ Research themes
 <details>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_theme_tinyml.png" width="80%" height="80%">
 </details>
+
+
 Research domains
 ======
 
