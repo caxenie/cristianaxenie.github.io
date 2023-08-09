@@ -161,7 +161,8 @@ _Pedestrian detection and tracking_
 							<br>
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN event-based-pedestrian-tracking.gif.gif" width="60%" height="60%">
-							<br>
+
+
 
 _Vision Sensor Fusion_
 
@@ -174,7 +175,7 @@ _Biomechanics in VR_
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-kinematics-for-vr.gif" width="60%" height="60%">
 
-							<br>
+
 _Closed-loop Neurobotics_
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-robotics-3d-egomotion.gif" width="60%" height="60%">
