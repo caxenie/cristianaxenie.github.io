@@ -165,7 +165,6 @@ _Pedestrian detection and tracking_
 
 _Vision Sensor Fusion_
 
-							<br>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN event_based_depth.gif" width="60%" height="60%">
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN slam-watermarked.gif" width="60%" height="60%">
@@ -183,7 +182,6 @@ _Closed-loop Neurobotics_
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-robotics-collaborative-upd.gif" width="60%" height="60%">
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/Cristian Axenie THN neuromorphic-robotics-grasping.gif" width="60%" height="60%">
-							<br>
 
 </details>
 
