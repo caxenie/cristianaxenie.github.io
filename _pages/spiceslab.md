@@ -20,7 +20,7 @@ The SPICES Lab focuses on the end-to-end design, development, and deployment of 
 Research themes
 ======
 
-**Neuromorphic Artificial Intelligence**
+**Neuromorphic Intelligence**
 <details>
 	<p> Closed-loop robotic systems powered by spiking neural networks for learning sensorimotor control in autonomous operation.</p>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_theme_robotics.png" width="80%" height="80%">
