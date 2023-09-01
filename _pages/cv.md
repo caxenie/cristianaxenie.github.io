@@ -72,7 +72,7 @@ Patents(filed/granted)
 1. Physics-informed Intelligent Calibration & Reliability Analysis Framework for Physical Systems, 2021
 2. Dynamic Optimization-Free Traffic Light Signal Offset Control System, 2020
 3. Learning Contextual Memory System for Traffic Light Optimization, 2020
-4. hort-Term Spatio-Temporal Traffic Prediction System, 2019
+4. Short-Term Spatio-Temporal Traffic Prediction System, 2019
 5. Multisensory Learning System for Traffic Prediction, 2019
 6. Online Traffic Reasoner for City-Level Smart Traffic Light Management, 2019
 7. Automatic Model Selection for Timeseries Prediction on Data Streams, 2019
