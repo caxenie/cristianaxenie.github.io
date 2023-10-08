@@ -11,10 +11,15 @@ author_profile: true
 
 <details>
 	<summary>2023</summary>
+   <p> tinyML Foundation and Sony<br>
+    <a href="https://www.prnewswire.com/news-releases/sony-semiconductor-solutions-concludes-pedestrian-safety-challenge-announces-winners-with-tinyml-foundation-and-the-city-of-san-jose-301948671.html?tc">Source</a><br>
+    <a href="https://youtu.be/ZhBCtfalcOk?t=2870">Talk video</a><br>
+  </p>
   <p> Nuremberg Institute of Technology <br>
     <a href="https://www.th-nuernberg.de/news/4895-die-ohm-bekommt-verstaerkung/">Source</a><br>
     <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_Media_Coverage_Technische Hochschule Nürnberg Georg Simon Ohm.pdf">Download copy</a><br>
   </p>
+	
 </details>
 
 <details>
