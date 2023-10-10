@@ -55,6 +55,7 @@ Fellowships
 
 Awards and Honours
 ======
+* **2nd place at the TinyML Pedestrian Detection Challenge** 2023
 * **Best Paper Award** - 2020 International Symposium on Mathematical and Computational Oncology, 2020
 * **1st place at the Merck AI Research Challenge** 2019
 * **nVidia GPU Grant** - Technical University of Ingolstadt, 2018
