@@ -53,7 +53,6 @@ author_profile: true
 <details>
 	<summary>2017</summary>
   <p> Basecamp.AI Winter School, Vienna, Austria <br>
-    <a href="https://web.archive.org/web/20170318124321/http://www.basecamp.ai/student#mentors">Source</a><br>
     <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_Media_Coverage_Basecamp_2017.pdf">Download copy</a><br>
   </p>
 </details>
