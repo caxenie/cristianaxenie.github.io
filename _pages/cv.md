@@ -11,7 +11,7 @@ redirect_from:
 
 Work experience
 ======
-* **Professor of Artificial Intelligence**, Technische Hochschule Nürnberg Georg Simon Ohm, Germany, since 2023
+* **High Tech Agenda Bayern Professor of Artificial Intelligence**, Technische Hochschule Nürnberg Georg Simon Ohm, Germany, since 2023
 * **Staff Research Engineer**, Huawei Research Center, Germany, since 2019 
 * **Senior Research Engineer**, Huawei Research Center, Germany, 2017 - 2019
 * **Head of Laboratory / Principal Investigator**, AUDI Konfuzius-Institut Ingolstadt Laboratory, Germany, since 2017
