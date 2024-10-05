@@ -20,7 +20,7 @@ The SPICES Lab focuses on the end-to-end design, development, and deployment of 
 Research impact
 ======
 
-<img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/UN SDGs EN.png" width="100%" height="100%">
+<img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/UN SDGs EN.png" width="70%" height="70%">
 
 The laboratory research output contributes to at least 4 of the 17 [UN SDGs](https://sdgs.un.org/goals). Our focus is on the good-health and well-being SDG (i.e., through research on AI in oncology and biomechanics), quality education SDG (i.e., through lectures, public talks, and motivation to educate our new generation), industry innovation and infrastructure SDG (i.e., through research in low-power embedded AI for industrial use), sustainable cities SDG (i.e., through work in smart cities and traffic optimization), and climate action SDG (i.e., through current research and teaching agenda in Sustainable and Green Embedded AI which will push us away from GW power consumption to mW).
 
