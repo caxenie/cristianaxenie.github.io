@@ -22,7 +22,7 @@ Research impact
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/UN SDGs EN.png" width="70%" height="70%">
 
-The **laboratory research** output contributes to at least 4 of the 17 [UN SDGs](https://sdgs.un.org/goals). Our focus is on the **good-health and well-being SDG** (i.e., through research on AI in oncology and biomechanics), **quality education SDG** (i.e., through lectures, public talks, and motivation to educate our new generation), **industry innovation and infrastructure SDG** (i.e., through research in low-power embedded AI for industrial use),** sustainable cities SDG** (i.e., through work in smart cities and traffic optimization), **and climate action SDG** (i.e., through current research and teaching agenda in Sustainable and Green Embedded AI which will push us away from GW power consumption to mW).
+The **laboratory research** output contributes to at least 4 of the 17 [UN SDGs](https://sdgs.un.org/goals). Our focus is on the **good-health and well-being SDG** (i.e., through research on AI in oncology and biomechanics), **quality education SDG** (i.e., through lectures, public talks, and motivation to educate our new generation), **industry innovation and infrastructure SDG** (i.e., through research in low-power embedded AI for industrial use),**sustainable cities SDG** (i.e., through work in smart cities and traffic optimization), **and climate action SDG** (i.e., through current research and teaching agenda in Sustainable and Green Embedded AI which will push us away from GW power consumption to mW).
 
 We expect that the exploration of **neuromorphic systems** will continue to contribute strongly to solving this intriguing puzzle while offering a solution for the trend toward **Sustainable and Green AI**. Under these conditions, insights obtained from building low-power neuromorphic circuits, and biologically inspired methods for computing reliably with unreliable components can bring crucial knowledge to **advanced computing technologies**, supporting **sustainable** **development**. This perspective has a strong sustainability dimension through both the **system** **design**, its **implementation**, and its widespread **applicability**.
 
@@ -50,7 +50,7 @@ Research themes
 
 **Edge Intelligence and TinyML**
 <details>
-<p>Research in the field of Tiny Machine Learning (TinyML) explores the optimization and execution of AI-based processing chains on embedded computers, with a focus on low-power neurmorphic sensors and computers.</p>
+<p>Research in the field of Tiny Machine Learning (TinyML) explores the optimization and execution of AI-based processing chains on embedded computers, focusing on low-power neuromorphic sensors and computers.</p>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_theme_tinyml.png" width="80%" height="80%">
 </details>
 
@@ -69,14 +69,14 @@ Research domains
 
 <details>
 	<summary>Autonomous Vehicles</summary>
-	<p>Traffic simulation is a crucial tool for testing and evaluating hypotheses in both the design of autonomous driving systems, where modelling and calibrating driver behaviour is key. In this research, we introduce a novel approach to calibrating driver models by combining fuzzy logic and inference to produce a plausible parametrization that, simultaneously, reproduces drivers’ behaviour peculiarities and road traffic characteristics. The calibration system uses solely vehicle trajectories that describe cars’ movements through the road network, with a resolution of time and space enough to allow for determining the lane of the road used, speed, and acceleration at every second of the survey period.</p>
+	<p>Traffic simulation is a crucial tool for testing and evaluating hypotheses in both the design of autonomous driving systems, where modelling and calibrating driver behaviour is key. In this research, we introduce a novel approach to calibrating driver models by combining fuzzy logic and inference to produce a plausible parametrization that reproduces drivers’ behaviour peculiarities and road traffic characteristics. The calibration system uses solely vehicle trajectories that describe cars’ movements through the road network, with a resolution of time and space enough to allow for determining the lane of the road used, speed, and acceleration at every second of the survey period.</p>
 							<br>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_field_autonomous_vehicles.png" width="80%" height="80%">
 </details>
 
 <details>
 	<summary>Industrial automation</summary>
-	<p>Predictive maintenance of industrial automation systems in order to reduce unplanned stops and maximise equipment life cycle. “If component A is showing over 20% baseline vibrations, while the temperature rises 0.5 degrees in component B, and the noise level rises with 10.6dB then it is likely that the doors will break in about 5 to 7 days.” The goal of the project is to learn normal operative parameters and sensory correlations in order to: 1) define bounds for min/max ranges of critical parameters and 2) generate alarms for anomaly situations. We research neural network streaming algorithms capable to explain the variance-covariance structure of a set of variables in a stream through linear combinations. The essential neural algorithm is leveraged by  novel incremental computation methods and systems operating on data streams and capable of achieving low latency and high throughput when learning from data streams while maintaining resource usage guarantees for predictive maintenance tasks.</p>
+	<p>Predictive maintenance of industrial automation systems to reduce unplanned stops and maximise equipment life cycle. “If component A is showing over 20% baseline vibrations, while the temperature rises 0.5 degrees in component B, and the noise level rises with 10.6dB then it is likely that the doors will break in about 5 to 7 days.” The project aims to learn normal operative parameters and sensory correlations to: 1) define bounds for min/max ranges of critical parameters and 2) generate alarms for anomaly situations. We research neural network streaming algorithms capable of explaining the variance-covariance structure of a set of variables in a stream through linear combinations. The essential neural algorithm is leveraged by  novel incremental computation methods and systems operating on data streams and is capable of achieving low latency and high throughput when learning from data streams while maintaining resource usage guarantees for predictive maintenance tasks.</p>
 							<br>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_field_automation.png" width="80%" height="80%">
 </details>
