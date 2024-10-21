@@ -10,6 +10,13 @@ author_profile: true
 *Research press coverage*
 
 <details>
+	<summary>2024</summary>
+   <p> Ohm Journal - Lightweight and Green AI for Roadside Safety<br>
+    <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie-OhmJournal_Beitrag.png">Article</a><br>
+    <a href="https://www.th-nuernberg.de/fileadmin/abteilungen/kom/kom_docs/OHM-Journal/2023-02_Ohm-Journal.pdf">Ohm Journal</a><br>
+  </p>
+	
+<details>
 	<summary>2023</summary>
    <p> tinyML Foundation and Sony<br>
     <a href="https://www.prnewswire.com/news-releases/sony-semiconductor-solutions-concludes-pedestrian-safety-challenge-announces-winners-with-tinyml-foundation-and-the-city-of-san-jose-301948671.html?tc">Source</a><br>
