@@ -15,7 +15,8 @@ author_profile: true
     <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie-OhmJournal_Beitrag.png">Article</a><br>
     <a href="https://www.th-nuernberg.de/fileadmin/abteilungen/kom/kom_docs/OHM-Journal/2023-02_Ohm-Journal.pdf">Ohm Journal</a><br>
   </p>
-	
+</details>
+
 <details>
 	<summary>2023</summary>
    <p> tinyML Foundation and Sony<br>
