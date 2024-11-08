@@ -10,11 +10,18 @@ author_profile: true
 *Research press coverage*
 
 <details>
-	<summary>2024</summary>
+   <summary>2024</summary>
    <p> Ohm Journal - Lightweight and Green AI for Roadside Safety<br>
     <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie-OhmJournal_Beitrag.png">Article</a><br>
     <a href="https://www.th-nuernberg.de/fileadmin/abteilungen/kom/kom_docs/OHM-Journal/2023-02_Ohm-Journal.pdf">Ohm Journal</a><br>
   </p>
+    <p> SATVISION Magazine - KI in allen Lebensbereichen auf dem Vormarsch (DE) <br>
+    <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/SATVISION_2024-12_Interview_Cristian Axenie_Vorabansicht_08.11.2024.pdf.pdf">Article</a><br>
+  </p>
+   <p> IFA 2024 (100 Years Celebration) - Consumer Electronics Trends and Insights Conference / AI makes a diet <br>
+    <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/IFA2024 Trends Insights - GFU_AXENIE.pdf">Article</a><br>
+    <a href="https://gfu.de/insights-trends/rueckblick-und-praesentationen-2024/">GFU/Trends&Insights 2024, IFA 2024 Centennial</a><br>
+   </p>
 </details>
 
 <details>
