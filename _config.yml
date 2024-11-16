@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Cristian Axenie"
 description              : &description "Professor of Artificial Intelligence at Technische Hochschule Nürnberg Georg Simon Ohm"
 url                      : "https://cristianaxenie.info" #https://caxenie.github.io/cristianaxenie.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/about" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "caxenie/cristianaxenie.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
