@@ -16,8 +16,6 @@ Dr Axenie is a **seasoned researcher** with **15+ years of academic research** a
 
 *[Research portfolio with applications](https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/AI_Research_Overview_Updated.pdf)*
 
-<embed src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/AI_Research_Overview_Updated.pdf" type="application/pdf" width="300" height="1000"/>
-
 *[Research approach](https://cristianaxenie.info/portfolio/)*
 
 Dr Axenie's research agenda centres on **artificial intelligence** techniques and systems for **data-driven science and engineering** problems. More precisely, Dr Axenie is combining **mathematical modelling, control theory, data fusion, machine learning, simulation, and hardware** to design and implement **efficient intelligent embedded and edge compute systems** across [domains](https://cristianaxenie.info/portfolio/).
