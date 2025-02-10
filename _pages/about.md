@@ -16,9 +16,8 @@ Dr Axenie is a **seasoned researcher** with **15+ years of academic research** a
 
 *[Research portfolio with applications](https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/AI_Research_Overview_Updated.pdf)*
 
-<iframe src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/AI_Research_Overview_Updated.pdf" width="600" height="800" type="application/pdf">
-    <p>Your browser does not support PDFs. <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/AI_Research_Overview_Updated.pdf">Download the PDF</a>.</p>
-</iframe>
+<object data="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/AI_Research_Overview_Updated.pdf)" width="1000" height="1000" type='application/pdf'></object>
+
 
 
 *[Research approach](https://cristianaxenie.info/portfolio/)*
