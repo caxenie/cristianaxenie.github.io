@@ -14,6 +14,14 @@ Dr Cristian Axenie is **[High Tech Agenda Bayern](https://www.hightechagenda.de/
 
 Dr Axenie is a **seasoned researcher** with **15+ years of academic research** and **10+ years of industrial research experience**. His research was disseminated in **50+ [peer-reviewed publications](https://cristianaxenie.info/publications/) and 10+ [patents](https://cristianaxenie.info/cv/)**.
 
+*[Research portfolio with applications](https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/AI_Research_Overview_Updated.pdf)*
+
+<object data="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/AI_Research_Overview_Updated.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/AI_Research_Overview_Updated.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/AI_Research_Overview_Updated.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 *[Research approach](https://cristianaxenie.info/portfolio/)*
 
 Dr Axenie's research agenda centres on **artificial intelligence** techniques and systems for **data-driven science and engineering** problems. More precisely, Dr Axenie is combining **mathematical modelling, control theory, data fusion, machine learning, simulation, and hardware** to design and implement **efficient intelligent embedded and edge compute systems** across [domains](https://cristianaxenie.info/portfolio/).
