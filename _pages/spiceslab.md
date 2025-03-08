@@ -24,7 +24,7 @@ Research impact
 
 The **laboratory research** output contributes to at least 4 of the 17 [UN SDGs](https://sdgs.un.org/goals). Our focus is on the **good-health and well-being SDG** (i.e., through research on AI in oncology and biomechanics), **quality education SDG** (i.e., through lectures, public talks, and motivation to educate our new generation), **industry innovation and infrastructure SDG** (i.e., through research in low-power embedded AI for industrial use),**sustainable cities SDG** (i.e., through work in smart cities and traffic optimization), **and climate action SDG** (i.e., through current research and teaching agenda in Sustainable and Green Embedded AI which will push us away from GW power consumption to mW).
 
-We expect that the exploration of **neuromorphic systems** will continue to contribute strongly to solving this intriguing puzzle while offering a solution for the trend toward **Sustainable and Green AI**. Under these conditions, insights obtained from building low-power neuromorphic circuits, and biologically inspired methods for computing reliably with unreliable components can bring crucial knowledge to **advanced computing technologies**, supporting **sustainable** **development**. This perspective has a strong sustainability dimension through both the **system** **design**, its **implementation**, and its widespread **applicability**.
+We expect that exploring **neuromorphic systems** will continue to contribute strongly to solving this intriguing puzzle while offering a solution for the trend toward **Sustainable and Green AI**. Under these conditions, insights obtained from building low-power neuromorphic circuits and biologically inspired computing methods reliably with unreliable components can bring crucial knowledge to **advanced computing technologies**, supporting **sustainable** **development**. This perspective has a strong sustainability dimension through both the **system** **design**, its **implementation**, and its widespread **applicability**.
 
 
 Research themes
@@ -50,7 +50,7 @@ Research themes
 
 **Edge Intelligence and TinyML**
 <details>
-<p>Research in the field of Tiny Machine Learning (TinyML) explores the optimization and execution of AI-based processing chains on embedded computers, focusing on low-power neuromorphic sensors and computers.</p>
+<p>Research in Tiny Machine Learning (TinyML) explores the optimization and execution of AI-based processing chains on embedded computers, focusing on low-power neuromorphic sensors and computers.</p>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_theme_tinyml.png" width="80%" height="80%">
 </details>
 
@@ -83,14 +83,14 @@ Research domains
 
 <details>
 	<summary>Transportation</summary>
-	<p>Road traffic congestion poses serious challenges to urban infrastructures. Such dynamical loading of the vehicular arteries impacts both the social and economic lives of people. The main goal of this work is to propose a new methodology for jointly modelling, learning, and controlling the dynamics of arterial traffic flows for accurate phase offset calculation. The approach introduces a nonlinear coupled oscillators model of the traffic network signalling system, along with a nonlinear control mechanism that allows it to capture complex flow patterns and unpredictable variations. This ensures a robust control of the oscillator-based model towards self-organization under dynamical demand changes based on the measurement of local traffic data. In order to benefit from realistic run-time performance under real traffic flows, the system is efficiently implemented in spiking neural networks, hence avoiding optimization routines and allowing it to operate in real time. Our real-world data experiments demonstrate that the methodology excels in minimizing typical traffic key performance indices when phase offset is calculated depending on the real-time demand measurements.</p>
+	<p>Road traffic congestion poses serious challenges to urban infrastructures. Such dynamic loading of the vehicular arteries impacts both the social and economic lives of people. The main goal of this work is to propose a new methodology for jointly modelling, learning, and controlling the dynamics of arterial traffic flows for accurate phase offset calculation. The approach introduces a nonlinear coupled oscillators model of the traffic network signalling system, along with a nonlinear control mechanism that allows it to capture complex flow patterns and unpredictable variations. This ensures a robust control of the oscillator-based model towards self-organization under dynamic demand changes based on the measurement of local traffic data. To benefit from realistic run-time performance under real traffic flows, the system is efficiently implemented in spiking neural networks, hence avoiding optimization routines and allowing it to operate in real time. Our real-world data experiments demonstrate that the methodology excels in minimizing typical traffic key performance indices when phase offset is calculated depending on the real-time demand measurements.</p>
 							<br>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_field_traffic.png" width="80%" height="80%">
 </details>
 
 <details>
 	<summary>Biomedicine</summary>
-	<p>We conduct research and development of tools, models and infrastructure needed to interpret large amounts of clinical data and enhance cancer treatments and our understanding of the disease. To this end, this research direction serves as a bridge between the data, the engineer, and the clinician in oncological practice. Thus, knowledge-based predictive mathematical modelling is used to fill gaps in sparse data; assist and train machine learning algorithms; provide measurable interpretations of complex and heterogeneous clinical data sets, and make patient-tailored predictions of cancer progression and response.</p>
+	<p>We conduct research and development of tools, models and infrastructure needed to interpret large amounts of clinical data and enhance cancer treatments and our understanding of the disease. To this end, this research direction serves as a bridge between the data, the engineer, and the clinician in oncological practice. Thus, knowledge-based predictive mathematical modelling is used to fill gaps in sparse data, assist and train machine learning algorithms, provide measurable interpretations of complex and heterogeneous clinical data sets, and make patient-tailored predictions of cancer progression and response.</p>
 							<br>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_field_biomedicine.png" width="80%" height="80%">
 </details>
@@ -104,7 +104,7 @@ Research domains
 
 <details>
 	<summary>Sports</summary>
-	<p>This research direction proposes the development of neural networks controller VR system for sport psychological (cognitive) and biomechanical training. By exploiting neuroscientific knowledge in sensorimotor processing, neural network-based learning algorithms and VR avatar reconstruction, our lab along with the other consortium partners target the development of an adaptive, affordable, and flexible novel solution for goalkeeper training in VR.</p>
+	<p>This research direction proposes the development of a neural network controller VR system for sport psychological (cognitive) and biomechanical training. By exploiting neuroscientific knowledge in sensorimotor processing, neural network-based learning algorithms and VR avatar reconstruction, our lab, along with the other consortium partners, target the development of an adaptive, affordable, and flexible novel solution for goalkeeper training in VR.</p>
 							<br>
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_field_sports.png" width="80%" height="80%">
 </details>
@@ -149,6 +149,7 @@ Equipment and systems
 
 Teaching areas
 ======
+TinyAI 
 
 Intelligent Multi-sensory Fusion
 
