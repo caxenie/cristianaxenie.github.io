@@ -10,6 +10,16 @@ author_profile: true
 *Research press coverage*
 
 <details>
+   <summary>2025</summary>
+   <p> Springer Books <br>
+    <a href="https://link.springer.com/book/9783031904240">Springer Link Book: Applied Antifragility in Technical Systems</a><br>
+    <a href="https://link.springer.com/book/9783031903908">Springer Link Book: Applied Antifragility in Natural Systems</a><be>
+    <a href="https://www.amazon.com/-/en/Cristian-Axenie/dp/3031904249">Amazon order: Applied Antifragility in Technical Systems</a><br>
+    <a href="https://www.amazon.com/-/en/Cristian-Axenie/dp/3031903900">Amazon order: Applied Antifragility in Natural Systems</a><br>	   
+  </p>
+</details>
+
+<details>
    <summary>2024</summary>
    <p> Ohm Journal - Lightweight and Green AI for Roadside Safety<br>
     <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie-OhmJournal_Beitrag.png">Article</a><br>
