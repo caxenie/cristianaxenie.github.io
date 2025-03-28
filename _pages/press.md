@@ -11,11 +11,9 @@ author_profile: true
 
 <details>
    <summary>2025</summary>
-   <p> Springer Books <br>
-	   
+   <p> Springer Books <br> 
     <a href="https://link.springer.com/book/9783031904240">Springer Link Book: Applied Antifragility in Technical Systems</a><br>
     <a href="https://link.springer.com/book/9783031903908">Springer Link Book: Applied Antifragility in Natural Systems</a><br>
-	    
     <a href="https://www.amazon.com/-/en/Cristian-Axenie/dp/3031904249">Amazon order: Applied Antifragility in Technical Systems</a><br>
     <a href="https://www.amazon.com/-/en/Cristian-Axenie/dp/3031903900">Amazon order: Applied Antifragility in Natural Systems</a><br>	   
   </p>
