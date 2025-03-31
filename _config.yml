@@ -88,7 +88,7 @@ author:
   email            : "cristian.axenie@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Cristian-Axenie"
   uri              :
-  bitbucket        : "cristian_axenie"
+  bitbucket        : 
   codepen          :
   dribbble         :
   flickr           :
@@ -98,7 +98,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         : "caxenie"
   orcid            : "https://orcid.org/0000-0001-6184-0546"
@@ -107,7 +107,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "cristian_axenie"
+  twitter          :
   vine             :
   weibo            :
   xing             :
