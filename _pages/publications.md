@@ -27,9 +27,9 @@ The book purpose is to build a foundational knowledge base by applying antifragi
 
 As coined in the book of Nassim Taleb, antifragility is a property of a system to gain from uncertainty, randomness, and volatility, opposite to what fragility would incur. An antifragile system’s response to external perturbations is beyond robust, such that small stressors can strengthen the future response of the system by adding a strong anticipation component. The work of the Applied Antifragility Group in traffic control and robotics, led by the authors, provides a good overview on the current research status.
 
-Official link: https://link.springer.com/book/9783031904240 
+Official link: [Springer](https://link.springer.com/book/9783031904240)
 
-Pre-orders: https://www.amazon.de/-/en/Cristian-Axenie/dp/3031904249
+Pre-orders: [Amazon](https://www.amazon.de/-/en/Cristian-Axenie/dp/3031904249)
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
