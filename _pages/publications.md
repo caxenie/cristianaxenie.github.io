@@ -13,9 +13,9 @@ As coined in the book of Nassim Taleb, antifragility is a property of a system t
 
 The book introduces the framework of applied antifragility and possible paths to build systems that gain from uncertainty. We draw from the body of literature on natural systems (e.g. cancer therapy, antibiotics, neuroscience, and agricultural pest management) in an attempt to unify the scales of antifragility in one framework. The work of the Applied Antifragility Group in oncology, neuroscience, and ecology led by the authors provides a good overview on the current research status.
 
-Official link: https://link.springer.com/book/9783031903908 
+Official link: [Springer](https://link.springer.com/book/9783031903908)
 
-Pre-orders: https://www.amazon.de/-/en/Cristian-Axenie/dp/3031903900
+Pre-orders: [Amazon](https://www.amazon.de/-/en/Cristian-Axenie/dp/3031903900)
 
 
 
