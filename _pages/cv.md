@@ -12,6 +12,7 @@ redirect_from:
 Work experience
 ======
 * **High Tech Agenda Bayern Professor of Artificial Intelligence**, Technische Hochschule Nürnberg Georg Simon Ohm, Germany, since 2023
+* **Fraunhofer Attrach Research Grant Awardee**, Fraunhofer Institute for Integrated Circuits, since April 2025
 * **Staff Research Engineer**, Huawei Research Center, Germany, since 2019 
 * **Senior Research Engineer**, Huawei Research Center, Germany, 2017 - 2019
 * **Head of Laboratory / Principal Investigator**, AUDI Konfuzius-Institut Ingolstadt Laboratory, Germany, since 2017
@@ -41,10 +42,14 @@ Professional certifications
 Research Grants
 ======
 * **Principal Investigator**,  175000EUR, Project PERSEUS (Platform for Enhanced Reality in Sport Exercise Understanding and Simulation), ZIM Grant, BMWi, Germany, 2019-2021
+* **Fraunhofer Attract Research Grant** for project NEMAISIS – Neuromorphic AI for Streamlined Industrial Solutions 2.100.000 EUR, 2025 – 2027
+* **Städtler Stiftung Prize** for project NeuroPower – Neuromorphic Systems for Power Conversion Systems, 198.000 EUR, 2025 – 2027
+* **ETH Zurich-Huawei Technology planning Expertise Task Force** project (TETF), ANTIGONES project (Antifragile optimization of nonlinear large-scale systems), 300.000 USD, 06/2022 – 04/2024
 
 
 Fellowships
 ======
+* **BayIntAn Fellowship** (7700 EUR) from Bavarian Research Alliance with ETH Zurich, IIT Genova and University of Groningen, 2025
 * **Bavarian Research Alliance Fellowship** - 5000EUR, research cooperation with ETH Zurich and University of California, Irvine, USA, 2017
 * **Bavarian Research Alliance Fellowship** - 10000EUR, research cooperation with University of Waterloo, Canada and the University of Manchester, UK, 2017
 * **Leonhard Lorenz-Stiftung Fellowship** - 7000EUR, neurotechnologies innovations, Germany, 2013
