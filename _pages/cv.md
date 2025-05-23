@@ -13,6 +13,7 @@ Work experience
 ======
 * **High Tech Agenda Bayern Professor of Artificial Intelligence**, Technische Hochschule Nürnberg Georg Simon Ohm, Germany, since 2023
 * **Fraunhofer Attrach Research Grant Awardee**, Fraunhofer Institute for Integrated Circuits, since April 2025
+* **Steering Committee Member - AI Impact Initiative**, AI4GOOD, International Telecommunications Unions (ITU) and United Nations (UN), since March 2025
 * **Staff Research Engineer**, Huawei Research Center, Germany, since 2019 
 * **Senior Research Engineer**, Huawei Research Center, Germany, 2017 - 2019
 * **Head of Laboratory / Principal Investigator**, AUDI Konfuzius-Institut Ingolstadt Laboratory, Germany, since 2017
@@ -41,10 +42,10 @@ Professional certifications
 
 Research Grants
 ======
-* **Principal Investigator**,  175000EUR, Project PERSEUS (Platform for Enhanced Reality in Sport Exercise Understanding and Simulation), ZIM Grant, BMWi, Germany, 2019-2021
 * **Fraunhofer Attract Research Grant** for project NEMAISIS – Neuromorphic AI for Streamlined Industrial Solutions 2.100.000 EUR, 2025 – 2027
 * **Städtler Stiftung Prize** for project NeuroPower – Neuromorphic Systems for Power Conversion Systems, 198.000 EUR, 2025 – 2027
-* **ETH Zurich-Huawei Technology planning Expertise Task Force** project (TETF), ANTIGONES project (Antifragile optimization of nonlinear large-scale systems), 300.000 USD, 06/2022 – 04/2024
+* **Principal Investigator**,  175000EUR, Project PERSEUS (Platform for Enhanced Reality in Sport Exercise Understanding and Simulation), ZIM Grant, BMWi, Germany, 2019-2021
+* **ETH Zurich-Huawei Technology planning Expertise Task Force** project (TETF), ANTIGONES project (Antifragile optimisation of nonlinear large-scale systems), 300.000 USD, 06/2022 – 04/2024
 
 
 Fellowships
@@ -55,7 +56,7 @@ Fellowships
 * **Leonhard Lorenz-Stiftung Fellowship** - 7000EUR, neurotechnologies innovations, Germany, 2013
 * **Science Network of Biomimetic and Biohybrid Systems Research Fellowship** - 2500EUR, workshop leader CapoCaccia Cognitive Neuromorphic Engineering Workshop, Italy, 2013
 * **Science Network of Biomimetic and Biohybrid Systems Research Fellowship** - 2500EUR, workshop leader Telluride Neuromorphic Cognition Engineering Workshop, USA, 2013
-* **Bavarian Elite Research PhD Scholarship** - 120000EUR, Bavarian Ministry of Sciences, Research and the Arts Exclusive funding, 2012
+* **Bavarian Elite Research PhD Scholarship** - 120000EUR, Bavarian Ministry of Sciences, Research and the Arts, 2012
 
 
 Awards and Honours
@@ -64,9 +65,9 @@ Awards and Honours
 * **Best Paper Award** - 2020 International Symposium on Mathematical and Computational Oncology, 2020
 * **1st place at the Merck AI Research Challenge** 2019
 * **nVidia GPU Grant** - Technical University of Ingolstadt, 2018
-* **Outstanding Reviewer Award** - IOP Journal of of Bioinspiration and Biomimetics, 2017
+* **Outstanding Reviewer Award** - IOP Journal of Bioinspiration and Biomimetics, 2017
 * **Outstanding Reviewer Award** - IOP Journal of Neural Engineering, 2016
-* **1st place at the Daimler Automotive Big Data Analytics Hackaton** 2016
+* **1st place at the Daimler Automotive Big Data Analytics Hackathon** 2016
 * **Microsoft Cognitive Technologies Prize** - Burda Hackdays, 2016
 * **1st place at the BMW Automotive Hackdays** 2016
 * **4th place at the IBM “Best Linux Application” Competition** 2009
@@ -76,14 +77,14 @@ Awards and Honours
 Patents(filed/granted)
 ======
 1. Physics-informed Intelligent Calibration & Reliability Analysis Framework for Physical Systems, 2021
-2. Dynamic Optimization-Free Traffic Light Signal Offset Control System, 2020
-3. Learning Contextual Memory System for Traffic Light Optimization, 2020
+2. Dynamic Optimisation-Free Traffic Light Signal Offset Control System, 2020
+3. Learning Contextual Memory System for Traffic Light Optimisation, 2020
 4. Short-Term Spatio-Temporal Traffic Prediction System, 2019
 5. Multisensory Learning System for Traffic Prediction, 2019
 6. Online Traffic Reasoner for City-Level Smart Traffic Light Management, 2019
 7. Automatic Model Selection for Timeseries Prediction on Data Streams, 2019
 8. Online Traffic Controller with Spatio-Temporal Learning Extensions for Online Machine Learning Prediction, 2019
-9. DataBase-Embedded Streaming Engine, 2019
+9. Database-Embedded Streaming Engine, 2019
 10. A System for Higher-Order Stream Processing, 2018
 11. Streaming Random Forest, 2018
 12. Stream Feature Extractor, 2017
@@ -94,10 +95,10 @@ Patents(filed/granted)
 Service and leadership
 ======
 * **Invited Guest Editor**, MDPI Symmetry Journal on „Networks in Cancer: From Symmetry Breaking to Targeted Therapy, 2021 - 2022
-* **Organizer of the Artificial Reality Research and Cooperation Seminar**, Technische Hochschule Ingolstadt and South China University of Technology, 2019
+* **Organiser of the Artificial Reality Research and Cooperation Seminar**, Technische Hochschule Ingolstadt and South China University of Technology, 2019
 * **Program-committee member**
   * International Conference of Artificial Neural Networks (ICANN) 2013, 2019, 2020
-  * International Symposium Computer Based Medical Systems (CBMS) 2020
+  * International Symposium Computer-Based Medical Systems (CBMS) 2020
   * European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2019, 2020, 2021
 * **Member of the Review Board**
   * MDPI Sensor Journal, IOP Journal of Neural Engineering, since 2016
