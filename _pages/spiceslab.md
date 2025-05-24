@@ -7,13 +7,13 @@ author_profile: true
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/SpicesLab_2_horiz-greenAI.png" width="100%" height="100%">
 
-Welcome to the _**S**ensorimotor **P**rocessing, **I**ntelligence, and **C**ontrol in **E**dge compute **S**ystems_ (**SPICES**) Lab, led by [Prof. Dr. Cristian Axenie](https://www.th-nuernberg.de/person/axenie-cristian/). We are a research laboratory within the [Computer Science Department](https://www.th-nuernberg.de/en/faculties/in/) at the [Technische Hochschule Nürnberg / Nuremberg Institute of Technology](https://www.th-nuernberg.de/en/) in Germany. We are sponsored by the Professorship for Artificial Intelligence for Heterogeneous Sensory Data under the prestigious [High Tech Agenda Bayern](https://www.hightechagenda.de/experte/prof-dr-cristian-axenie/).
+Welcome to the _**S**ensorimotor **P**rocessing, **I**ntelligence, and **C**ontrol in **E**dge compute **S**ystems_ (**SPICES**) Lab, led by [Prof. Dr. Cristian Axenie](https://www.th-nuernberg.de/person/axenie-cristian/). We are a research laboratory within the [AI Center](https://ki-zentrum.bayern/team/) and [Computer Science Department](https://www.th-nuernberg.de/en/faculties/in/) at the [Technische Hochschule Nürnberg / Nuremberg Institute of Technology](https://www.th-nuernberg.de/en/) in Germany. We are sponsored by the Professorship for Artificial Intelligence for Heterogeneous Sensory Data under the prestigious [High Tech Agenda Bayern](https://www.hightechagenda.de/experte/prof-dr-cristian-axenie/).
 
 {% include base_path %}
 
 Research agenda
 ======
-The SPICES Lab focuses on the end-to-end design, development, and deployment of closed-loop Cognitive Neurocomputing Systems. Algorithmically, we specialize in neural network learning algorithms for multi-sensory fusion, cognitive computing, and intelligent control. At the data source level, we model, process, and fuse traditional as well as neuromorphic (event-based) sensor data. Robustness and fault tolerance are key ingredients in our designs rooted in neurocomputing and cognitive systems. We deploy our algorithms on energy-efficient compute systems, from embedded devices to edge devices, with a clear focus on green, scalable, and sustainable learning and inference.
+The SPICES Lab focuses on the end-to-end design, development, and deployment of closed-loop Cognitive Neurocomputing and Neuromorphic Systems. Algorithmically, we specialize in neural network learning algorithms for multi-sensory fusion, cognitive computing, and intelligent control. At the data source level, we model, process, and fuse traditional as well as neuromorphic (event-based) sensor data. Robustness and fault tolerance are key ingredients in our designs, rooted in neurocomputing and cognitive systems. We deploy our algorithms on energy-efficient compute systems, from embedded devices to edge devices, with a clear focus on green, scalable, and sustainable learning and inference.
 
 <img src="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/CristianAxenie_SPICES_Lab_Research_agenda_demos.png" width="100%" height="100%">
 
@@ -149,11 +149,12 @@ Equipment and systems
 
 Teaching areas
 ======
-TinyAI 
-
-Intelligent Multi-sensory Fusion
 
 Neuromorphic Artificial Intelligence
+
+TinyML
+
+Intelligent Multi-sensory Fusion
 
 Computer Science Fundamentals
 
