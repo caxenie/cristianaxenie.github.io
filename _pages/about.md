@@ -12,7 +12,7 @@ Cristian Axenie is **[High Tech Agenda Bayern](https://www.hightechagenda.de/exp
 
 *[Short vita](https://cristianaxenie.info/cv/)*
 
-Cristian Axenie is a **seasoned researcher** with **15+ years of academic research** and **10+ years of industrial research experience**. His research was disseminated in **50+ [peer-reviewed publications](https://cristianaxenie.info/publications/) and 10+ [patents](https://cristianaxenie.info/cv/)**.
+Cristian Axenie is Professor of AI and a **seasoned researcher** with **15+ years of academic research** and **10+ years of industrial research experience**. His research was disseminated in **50+ [peer-reviewed publications](https://cristianaxenie.info/publications/) and 10+ [patents](https://cristianaxenie.info/cv/)**.
 
 *[Research portfolio with applications](https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/AI_Research_Overview_Updated.pdf)*
 
