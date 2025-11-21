@@ -12,7 +12,7 @@ redirect_from:
 Work experience
 ======
 * **High Tech Agenda Bayern Professor of Artificial Intelligence**, Technische Hochschule Nürnberg Georg Simon Ohm, Germany, since 2023
-* **Fraunhofer Attrach Research Grant Awardee**, Fraunhofer Institute for Integrated Circuits, since April 2025
+* **Group Leader Neuromorphic Computing Solutions**, Fraunhofer Institute for Integrated Circuits (IIS), since October 2025
 * **Steering Committee Member - AI Impact Initiative**, AI4GOOD, International Telecommunications Unions (ITU) and United Nations (UN), since March 2025
 * **Staff Research Engineer**, Huawei Research Center, Germany, since 2019 
 * **Senior Research Engineer**, Huawei Research Center, Germany, 2017 - 2019
