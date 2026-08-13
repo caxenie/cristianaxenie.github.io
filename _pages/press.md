@@ -10,7 +10,7 @@ author_profile: true
 *Research press coverage*
 
 <details>
-   <summary>2025</summary>
+   <summary>2026</summary>
    <p> Neuromorphic Motor Control Industrial Success Stories <br> 
     <a href="https://www.maschinenmarkt.vogel.de/wie-neuronale-netze-bei-der-motorregelung-unterstuetzen-a-cb21a13d43236d91f1c91814d0eef5e4/tv">Maschinen Markt: SPICES Lab@TH Nürnberg, together with BURGER ENGINEERING develops neural and neuromorphic control systems.</a><br> 
 	   	<a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/2026 SPICES Lab AXENIE and Burger Engineering TH Nurnberg Neuromorphic Control Maschinen World 2026.pdf">Article</a><br>
