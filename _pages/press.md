@@ -13,14 +13,11 @@ author_profile: true
    <summary>2026</summary>
    <p> Neuromorphic Motor Control Industrial Success Stories <br> 
     <a href="https://www.maschinenmarkt.vogel.de/wie-neuronale-netze-bei-der-motorregelung-unterstuetzen-a-cb21a13d43236d91f1c91814d0eef5e4/tv">Maschinen Markt: SPICES Lab@TH Nürnberg, together with BURGER ENGINEERING develops neural and neuromorphic control systems.</a><br> 
-	   	<a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/2026 SPICES Lab AXENIE and Burger Engineering TH Nurnberg Neuromorphic Control Maschinen World 2026.pdf">Article</a><br>
-	   
-    <a href="https://automation-valley.de/ki-loesungen-embedded-systeme/">Automation Valley: SPICES Lab@TH Nürnberg, together with BURGER ENGINEERING, develops neural and neuromorphic control systems.</a><br>
-	   <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/2025 SPICES Lab AXENIE and BURGER ENGINEERING und TH Nürnberg entwickeln KI-Lösungen für Embedded Systeme - Automation Valley Nordbayern.pdf">Article</a><br>
-	
+	<a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/2026 SPICES Lab AXENIE and Burger Engineering TH Nurnberg Neuromorphic Control Maschinen World 2026.pdf">Article</a><br>
+ 	<a href="https://automation-valley.de/ki-loesungen-embedded-systeme/">Automation Valley: SPICES Lab@TH Nürnberg, together with BURGER ENGINEERING, develops neural and neuromorphic control systems.</a><br>
+	<a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/2025 SPICES Lab AXENIE and BURGER ENGINEERING und TH Nürnberg entwickeln KI-Lösungen für Embedded Systeme - Automation Valley Nordbayern.pdf">Article</a><br>
 	<a href="https://digitalisierung-mittelfranken.de/2025/10/29/ki-fuer-embedded/">Digitalisierung Mittelfranken: SPICES Lab@TH Nürnberg entwickelt KI-Lösungen für Embedded-Systeme.</a><br>
 	<a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/2025 SPICES Lab AXENIE and BURGER ENGINEERING und TH Nürnberg entwickeln KI-Lösungen für Embedded Systeme - Digitale Transformation in KMU.pdf">Article</a><br>
-	
   </p>
    <p> Neuromorphic Sensing and Multisensory Fusion in Creative Media and Arts <br> 
     <a href="https://im-schimmer-konzert.base44.app/">Im Schimmer – Konzert & Live-Experiment mit neuromorphen Kameras und multimodaler Sensofusion.</a><br>
@@ -28,7 +25,7 @@ author_profile: true
   </p>
    <p> EMAP Residency: Computational Intelligence and Creative Art Media Installations <br> 
     <a href="https://emare.eu/artists/calin-segal">EMAP Residency: Călin Segal in collaboration with Prof. Dr. Cristian Axenie, This Land Is My Land — A Cartographic Experiment in Sovereign Desire (2026)</a><br>
-	   <a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/2026 Călin Segal in collaboration with Prof. Dr. Cristian Axenie SMIEEE _ EMAP — European Media Art Platform.pdf">Article</a><br>
+	<a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/2026 Călin Segal in collaboration with Prof. Dr. Cristian Axenie SMIEEE _ EMAP — European Media Art Platform.pdf">Article</a><br>
   </p>
 </details>
 
