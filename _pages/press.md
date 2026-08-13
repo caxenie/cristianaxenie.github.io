@@ -14,7 +14,7 @@ author_profile: true
    <p> Neuromorphic Motor Control Industrial Success Stories <br> 
     <a href="https://www.maschinenmarkt.vogel.de/wie-neuronale-netze-bei-der-motorregelung-unterstuetzen-a-cb21a13d43236d91f1c91814d0eef5e4/">Maschinen Markt: SPICES Lab@TH Nürnberg, together with BURGER ENGINEERING develops neural and neuromorphic control systems.</a><br> 
 	<a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/2026 SPICES Lab AXENIE and Burger Engineering TH Nurnberg Neuromorphic Control Maschinen World 2026.pdf">Article</a><br><br> 
- 	<a href="https://automation-valley.de/ki-loesungen-embedded-systeme/">Automation Valley: SPICES Lab@TH Nürnberg, together with BURGER ENGINEERING, develops neural and neuromorphic control systems.</a><br>
+ 	<a href="https://automation-valley.de/ki-loesungen-embedded-systeme/">Automation Valley: SPICES Lab@TH Nürnberg, together with BURGER ENGINEERING, develops embedded AI systems.</a><br>
 	<a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/2025 SPICES Lab AXENIE and BURGER ENGINEERING und TH Nürnberg entwickeln KI-Lösungen für Embedded Systeme - Automation Valley Nordbayern.pdf">Article</a><br><br> 
 	<a href="https://digitalisierung-mittelfranken.de/2025/10/29/ki-fuer-embedded/">Digitalisierung Mittelfranken: SPICES Lab@TH Nürnberg entwickelt KI-Lösungen für Embedded-Systeme.</a><br>
 	<a href="https://github.com/caxenie/cristianaxenie.github.io/raw/master/files/2025 SPICES Lab AXENIE and BURGER ENGINEERING und TH Nürnberg entwickeln KI-Lösungen für Embedded Systeme - Digitale Transformation in KMU.pdf">Article</a><br><br> 
