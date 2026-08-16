@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
+<meta name="robots" content="index, follow">
 
 Applied Antifragility in Natural Systems
 ![image](https://github.com/user-attachments/assets/59463b58-583e-4cf7-add5-2f62c0bb7a70)
