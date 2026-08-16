@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<meta content="index,nofollow" name="robots" />
 
 Cristian Axenie is Professor of [Artificial Intelligence](https://www.th-nuernberg.de/person/axenie-cristian/) founded by the [High Tech Agenda Bayern](https://www.hightechagenda.de/experte/prof-dr-cristian-axenie/) and Research Group Leader of [SPICES Lab](https://www.th-nuernberg.de/fakultaeten/in/forschung/cognitive-neurocomputing/) at the [Technische Hochschule Nürnberg Georg Simon Ohm](https://www.th-nuernberg.de/) in Nürnberg, Germany. At the same time, Dr Axenie is Group Leader of the Neuromorphic Computing Solutions Team at the [Fraunhofer Institute for Integrated Circuits (IIS)](https://www.iis.fraunhofer.de/de/ff/kom/ki/snn.html), funded by a prestigious [Attract Research Grant](https://www.fraunhofer.de/en/jobs-and-career/professionals/fraunhoferattract-funding-program.html). 
 
